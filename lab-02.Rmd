@@ -17,18 +17,18 @@ library(readxl)
 
 ```{r load-data, message = FALSE}
 # Member 2 (pair 1) write code to load File 1 data here:
-read.csv("data/mismanaged-plastic-waste-per-capita.csv")
+data1 <- read.csv("data/mismanaged-plastic-waste-per-capita.csv")
 
 # Member 4 (pair 2) write code to load File 2 data here:
-read_csv("data/per-capita-ocean-plastic-waste.txt")
+data2 <- read_csv("data/per-capita-ocean-plastic-waste.txt")
 
 
 # Member 1 (pair 1) write code to load File 3 data here:
-read_tsv("data/UN_country_population.tsv")
+data3 <- read_tsv("data/UN_country_population.tsv")
 
 
 # Member 3 (pair 2) write code to load File 4 data here:
-read_xlsx("data/UN_country_region.xlsx")
+data4 <- read_xlsx("data/UN_country_region.xlsx")
 
 
 ```
