@@ -29,11 +29,10 @@ read.tsv(UN_country_population.tsv)
 
 
 # Member 3 (pair 2) write code to load File 4 data here:
-
+read.xlsx(UN_country_region.xlsx)
 
 
 ```
-
 
 
 ```{r join-data, message = FALSE}
