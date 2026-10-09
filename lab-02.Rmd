@@ -25,7 +25,7 @@ read.csv(mismanaged-plastic-waste-per-capita.csv)
 
 
 # Member 1 (pair 1) write code to load File 3 data here:
-
+read.tsv(UN_country_population.tsv)
 
 
 # Member 3 (pair 2) write code to load File 4 data here:
