@@ -19,7 +19,6 @@ library(readxl)
 # Member 2 (pair 1) write code to load File 1 data here:
 read.csv(data/mismanaged-plastic-waste-per-capita.csv)
 
-
 # Member 4 (pair 2) write code to load File 2 data here:
 read_csv(data/per-capita-ocean-plastic-waste.txt)
 
